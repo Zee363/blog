@@ -1,0 +1,8 @@
+svg {
+  width: 60px;
+  font-size: xx-large;
+}
+
+.app-container, span {
+  background-color: grey;
+}
