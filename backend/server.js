@@ -62,7 +62,7 @@ const blog = [
     category: "Skincare",
     title: "Skin Health Is The Future",
     paragraphs: [
-      "My beige flag is that I’ll never say no to trying out new skincare products. Especially knowing my skin rarely gets irritated at anything I use. I recently got approached by local brand Eleven2 who is based in Cape Town to try out some products and of course I said yes!",
+      "My beige flag is that I'll never say no to trying out new skincare products. Especially knowing my skin rarely gets irritated at anything I use. I recently got approached by local brand Eleven2 who is based in Cape Town to try out some products and of course I said yes!",
       "Eleven2 products range are hand-picked ingredients that are gentle enough so as not to irritate the skin, but with effective & healing properties to ensure your skin feels nourished and cared for. Free from harmful synthetics and artificial fragrances, this artisan skincare range is affordable yet boasts a luxurious feel, and remains 100% committed to producing products that won’t harm our bodies, the environment or our oceans.",
       "The products sent to me are suited for my skin type which is normal. Below are the steps in which I’ve been using the range.",
       {

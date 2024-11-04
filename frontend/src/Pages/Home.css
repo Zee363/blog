@@ -1,29 +1,30 @@
-.home-section {
-  position: relative;
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(3, 1fr);   
+  gap: -20px !important;
+  padding: 20px; 
 }
 
-.far {
-  position: absolute;
-  z-index: 2;
-  border-radius: 50%;
-  display: block;
-  margin: 0 auto;
-  margin-top: 150px;
-  margin-left: 270px;
+.grid-container img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
 }
 
-.close-up {
-  position: absolute;
-  z-index: 1;
-  border-radius: 50%;
-  margin-top: 210px;
-  margin-left: 30px;
+.brand-name {
+  background-color: #D8D2C2;
+  width: 100%;
 }
 
+.brand-name h1{
+  text-align: start;
+  margin-left: 5px;
+  padding-top: 120px;
+}
 
-.btn-primary {
-  font-size: 20px;
-  padding: 10px;
-  display: block;
-  margin: 0 auto;
+.brand-name h5 {
+  padding-top: 253px;
+  padding-bottom: 80px;
+  margin-left: -2px;
 }
